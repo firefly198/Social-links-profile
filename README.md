@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/social-links-profile-with-flexbox-LuqLo78dK6)
 - Live Site URL: (https://firefly198.github.io/Social-links-profile/)
 
 ## My process
