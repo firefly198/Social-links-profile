@@ -25,19 +25,23 @@ body {
 
 .location {
     color: hsl(75, 94%, 57%);
-    font-size: 0.875rem;
+    font-size: 0.8125rem;
     margin-bottom: 24px;
+    font-weight: 700;
+    
 }
 
 h1 {
     color: hsl(0, 0%, 100%);
     font-size: 1.375rem;
     margin-bottom: 12px;
+    font-weight: 600;
 }
 
 .status {
     color: hsl(0, 0%, 100%);
     font-size: 0.875rem;
+    font-weight: 400;
     
 }
 
@@ -50,6 +54,7 @@ a{
     font-size: 0.875rem;
     background-color: hsl(0, 0%, 20%);
     border-radius: 8px;
+    font-weight: 700;
 }
 
 
@@ -85,6 +90,7 @@ ul {
 li a:hover {
     background-color: hsl(75, 94%, 57%);
     color: hsl(0, 0%, 12%);
+    cursor: url("assets/images/icons8-cursor-20.png") 0 0, pointer;
 }
 
 li a:focus-visible{
